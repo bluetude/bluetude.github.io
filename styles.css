@@ -17,6 +17,7 @@ body {
     margin: 20px 10px;
     background-color: var(--white);
     border-radius: 12px;
+    max-width: 600px;
 }
 
 img {
